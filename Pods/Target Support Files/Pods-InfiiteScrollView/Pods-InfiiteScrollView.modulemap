@@ -1,0 +1,6 @@
+framework module Pods_InfiiteScrollView {
+  umbrella header "Pods-InfiiteScrollView-umbrella.h"
+
+  export *
+  module * { export * }
+}

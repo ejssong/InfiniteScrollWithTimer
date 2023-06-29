@@ -1,0 +1,6 @@
+framework module Pods_InfiiteScrollView_InfiiteScrollViewUITests {
+  umbrella header "Pods-InfiiteScrollView-InfiiteScrollViewUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
